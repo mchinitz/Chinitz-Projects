@@ -1,3 +1,9 @@
 [submodule "Thesis"]
 	path = Thesis
 	url = https://github.com/mchinitz/Thesis.git
+[submodule "CS410f15p4"]
+	path = CS410f15p4
+	url = https://github.com/mchinitz/CS410f15p4.git
+[submodule "CS313f15p5"]
+	path = CS313f15p5
+	url = https://github.com/mchinitz/CS313f15p5.git
